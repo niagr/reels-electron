@@ -1,0 +1,11 @@
+{
+  "name": "reels-electron",
+  "version": "1.0.0",
+  "description": "Reels on electron-shell",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nishant George Agrwal",
+  "license": "ISC"
+}
